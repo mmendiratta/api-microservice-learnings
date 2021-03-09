@@ -2,7 +2,14 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Manav Mendiratta",
 	"description": "learning to build a package.json",
-  "keywords": ["api", "microservice", "learnings"],
+	"keywords": [
+		"api",
+		"microservice",
+		"learnings",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
