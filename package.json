@@ -1,6 +1,6 @@
 {
-	"author": "Manav Mendiratta",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Manav Mendiratta",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
