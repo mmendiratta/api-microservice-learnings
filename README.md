@@ -1,2 +1,2 @@
-# Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+# api-microservice-learnings
+Here I am learning more about the principles of apis and microservices. I am following a tutorial through FreeCodeCamp, and will work towards getting their certification. 
